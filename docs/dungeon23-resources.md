@@ -11,15 +11,15 @@ Any entry in **Bold is part of #dungeon23**
 
 > "Megadungeon for 2023. 12 levels. 365 rooms. One room a day. Keep it all in a journal." *Sean McCoy* 
 
-- **The original post** https://seanmccoy.substack.com/p/dungeon23
-- **Alternative Schedule for Dungeon 23**: https://spooky.blot.im/dungeon23
+- **The original post** [[https://seanmccoy.substack.com/p/dungeon23]]
+- **Alternative Schedule for Dungeon 23**: [[https://spooky.blot.im/dungeon23]]
 
 ## Assets and Templates
-- **Dungeon23 Worksheets** https://alldeadgenerations.blogspot.com/2022/12/dungeon23-worksheets.html#more
-- **Lone Archivist Dungeon23 Asset Pack** : https://lonearchivist.itch.io/dungeon23
-- **ZWGarth’s Dungeon Workbook**: https://zwgarth.itch.io/dungeon-workbook
-- Dyson Logos' Map Symbol Legend: https://dysonlogos.blog/2020/09/22/the-legend/
-- Perplexing Ruin's d88 Dungeon-Morphs: https://twitter.com/perplexingruins/status/1601806099321348096?s=20&t=-2q-c1JXGGf6RcQnlWSWKw
+- **Dungeon23 Worksheets** [[https://alldeadgenerations.blogspot.com/2022/12/dungeon23-worksheets.html#more]]
+- **Lone Archivist Dungeon23 Asset Pack** : [[https://lonearchivist.itch.io/dungeon23]]
+- **ZWGarth’s Dungeon Workbook**: [[https://zwgarth.itch.io/dungeon-workbook]]
+- Dyson Logos' Map Symbol Legend: [[https://dysonlogos.blog/2020/09/22/the-legend/]]
+- Perplexing Ruin's d88 Dungeon-Morphs: [[https://twitter.com/perplexingruins/status/1601806099321348096?s=20&t=-2q-c1JXGGf6RcQnlWSWKw]]
 - Planetary Displays & related space maps: https://rthorm.wordpress.com/2022/12/10/planetary-display-for-dungeon23-and-space23/
 - Dungeonscrawl Online Map Tool: https://dungeonscrawl.com
 
