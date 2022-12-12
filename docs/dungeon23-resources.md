@@ -50,10 +50,9 @@ Any entry in **Bold is part of #dungeon23**
 - 
 
 ## Populating Dungeons
-
-- Bryce Lynch "Wandering Monsters should have a Reason for Wandering Around": https://rpggeek.com/blogpost/27590/adventure-design-wandering-monsters
-- 
-
+  
+Bryce Lynch "Wandering Monsters should have a Reason for Wandering Around": https://rpggeek.com/blogpost/27590/adventure-design-wandering-monsters  
+  
 
 ## Prompts
 
@@ -108,20 +107,19 @@ Any entry in **Bold is part of #dungeon23**
 ## Drawing Dungeon Tutorials
 
 - Path's Peculiar's How to Draw a Basic Dungeon Map https://www.wistedt.net/tutorials/tutorial-dungeon-map/
-- JP Coovert "How to Draw and Design a Dungeon Map" (12min): https://www.youtube.com/watch?v=L-87GzBcfX0
-- 
+- JP Coovert "How to Draw and Design a Dungeon Map" (12min): https://www.youtube.com/watch?v=L-87GzBcfX0  
 
 ## Videos
 
 ### WebDM
 - "MËGÄ-DÜNGËÖN!!!!!!!!!! Epic Subterranean Campaigns in 5e Dungeons & Dragons - Web DM" (35min) https://www.youtube.com/watch?v=8e9tJ260sWc
-- "Stocking Your Megadungeon LIVE | Web DM | TTRPG | D&D" (60min) https://www.youtube.com/watch?v=fzDVMekaFLY
+- "Stocking Your Megadungeon LIVE | Web DM | TTRPG | D&D" (60min) https://www.youtube.com/watch?v=fzDVMekaFLY  
 
 ### GDC
-- Hitman Levels as Social Spaces: https://youtu.be/SpRJuinc9AM
+- Hitman Levels as Social Spaces: https://youtu.be/SpRJuinc9AM  
 
 ### Matt Colville/MCDM
-- Running the Game - Your First Dungeon: https://youtu.be/zTD2RZz6mlo?list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_
+- Running the Game - Your First Dungeon: https://youtu.be/zTD2RZz6mlo?list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_  
 
 ##### tags
-#dungeon23 #ttrpg #gamedev #website
+  #dungeon23 #ttrpg #gamedev #website
