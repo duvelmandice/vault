@@ -4,6 +4,10 @@
 - "MËGÄ-DÜNGËÖN!!!!!!!!!! Epic Subterranean Campaigns in 5e Dungeons & Dragons - Web DM" (35min) [MËGÄ-DÜNGËÖN!!!!!!!!!! Epic Subterranean Campaigns in 5e Dungeons & Dragons - Web DM - YouTube](https://www.youtube.com/watch?v=8e9tJ260sWc)
 - "Stocking Your Megadungeon LIVE | Web DM | TTRPG | D&D" (60min) [Stocking Your Megadungeon LIVE | Web DM | TTRPG | D&D - YouTube](https://www.youtube.com/watch?v=fzDVMekaFLY)  
 
+### Hexed Press
+- What is a Megadungeon?: [What is a Megadungeon? - YouTube](https://www.youtube.com/watch?v=wPEdZ2RFZdg)
+- Bandits Keep - Talking Mega-Dungeons with Todd from Hexed Press: (https://www.youtube.com/watch?v=Bp_gp4IQSO8)
+
 ### GDC
 - Hitman Levels as Social Spaces: [Hitman Levels as Social Spaces: The Social Anthropology of Level Design - YouTube](https://youtu.be/SpRJuinc9AM)  
 
