@@ -16,15 +16,15 @@ Any entry in **Bold is part of #dungeon23**
 - **Alternative Schedule for Dungeon 23**: [Alternative Schedule for Dungeon23 - Spooky action at a distance](https://spooky.blot.im/dungeon23)
 
 [[Assets and Templates]]  
-[[Dungeon Drawing Tutorials]]
+[[Dungeon Drawing Tutorials]]  
 [[Theory and Design]]  
-[[Games Mechanics for Dungeons]]
-[[Populating Dungeons]]
-[[Prompts]]
-[[World Building Exercises]]
-[[MEGA-threads]]
-[[Products]]
-[[Videos]]
+[[Games Mechanics for Dungeons]]  
+[[Populating Dungeons]]  
+[[Prompts]]  
+[[World Building Exercises]]  
+[[MEGA-threads]]  
+[[Products]]  
+[[Videos]]  
 
 
 Archived version:
