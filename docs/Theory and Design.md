@@ -4,6 +4,7 @@
 - What is Tested?: [Goblin Punch: What Is Tested?](https://goblinpunch.blogspot.com/2015/05/what-is-tested.html)
 - 3 Step Dungeon: [BASTIONLAND: Three Step Dungeons](https://www.bastionland.com/2018/10/three-step-dungeons.html)
 - Ultimate Guide to 5 Room Dungeons: [The Ultimate Guide to 5 Room Dungeons](https://www.roleplayingtips.com/5-room-dungeons/)
+- Generic Megadungeon by Skerples: [https://twitter.com/Skerples1/status/1534041488534843392?s=20&t=VzLYfC-auEkOTjjGon5gmw](https://twitter.com/Skerples1/status/1534041488534843392?s=20&t=VzLYfC-auEkOTjjGon5gmw)
 - So You Want to build a Dungeon? [All Dead Generations: So You Want to Build a Dungeon?](https://alldeadgenerations.blogspot.com/2021/03/so-you-want-to-build-dungeon.html)
 - Jayquaysing the Dungeon: [The Alexandrian » Jaquaying the Dungeon](https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon)
 - The Art of the Key: [The Alexandrian » The Art of the Key](https://thealexandrian.net/wordpress/35180/roleplaying-games/the-art-of-the-key)
