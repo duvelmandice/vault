@@ -20,6 +20,7 @@ It doesn't have to be a mega-*dungeon*, folks are also using **City23**, **Facil
 - **Dungeon23 Worksheets** [[https://alldeadgenerations.blogspot.com/2022/12/dungeon23-worksheets.html#more]]
 - **Lone Archivist Dungeon23 Asset Pack** : [[https://lonearchivist.itch.io/dungeon23]]
 - **ZWGarth’s Dungeon Workbook**: [[https://zwgarth.itch.io/dungeon-workbook]]
+- Dungeon23 Design Journal: [[https://pandiongames.substack.com/p/get-ready-for-dungeon23-the-free?utm_source=twitter&utm_campaign=auto_share&r=18ul2d]]
 - Dyson Logos' Map Symbol Legend: [[https://dysonlogos.blog/2020/09/22/the-legend/]]
 - Perplexing Ruin's d88 Dungeon-Morphs: [[https://twitter.com/perplexingruins/status/1601806099321348096?s=20&t=-2q-c1JXGGf6RcQnlWSWKw]]
 - Planetary Displays & related space maps: [[https://rthorm.wordpress.com/2022/12/10/planetary-display-for-dungeon23-and-space23/]]
