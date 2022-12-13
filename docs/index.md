@@ -3,7 +3,7 @@
 ### A list of Resources for Building a Megadungeon for  #dungeon23
 Compiled by Andrew Duvall - @duvelmandice
 
-![Dungeon23 Logo by Lone Archivist|500](https://img.itch.zone/aW1nLzEwNzU0NzM3LnBuZw==/original/klLf7L.png)
+![Dungeon23 Logo by Lone Archivist|300](https://img.itch.zone/aW1nLzEwNzU0NzM3LnBuZw==/original/klLf7L.png)
   
 ## What IS the #dungeon23?
 
