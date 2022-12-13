@@ -9,7 +9,9 @@ Any entry in **Bold is part of #dungeon23**
   
 ## What IS the dungeon23?
 
-> "Megadungeon for 2023. 12 levels. 365 rooms. One room a day. Keep it all in a journal." *Sean McCoy* 
+> "Megadungeon for 2023. 12 levels. 365 rooms. One room a day. Keep it all in a journal." *Sean McCoy*   
+
+It doesn't have to be a mega-*dungeon*, folks are also using **City23**, **Facility23**, **Horror23**, **Island23** etc
 
 - **The original post** [[https://seanmccoy.substack.com/p/dungeon23]]
 - **Alternative Schedule for Dungeon 23**: [[https://spooky.blot.im/dungeon23]]
@@ -27,18 +29,26 @@ Any entry in **Bold is part of #dungeon23**
 ## Theory and Design
 
 - Goblin Punch's "Dungeon Checklist", an outline of requirements for every dungeon [[https://goblinpunch.blogspot.com/2016/01/dungeon-checklist.html]]
+- What is Tested?: [[https://goblinpunch.blogspot.com/2015/05/what-is-tested.html]]
 - 3 Step Dungeon: [[https://www.bastionland.com/2018/10/three-step-dungeons.html]]
+- Ultimate Guide to 5 Room Dungeons: [[https://www.roleplayingtips.com/5-room-dungeons/]]
 - So You Want to build a Dungeon? [[https://alldeadgenerations.blogspot.com/2021/03/so-you-want-to-build-dungeon.html]]
 - Jayquaysing the Dungeon: [[https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon]]
 - The Art of the Key: [[https://thealexandrian.net/wordpress/35180/roleplaying-games/the-art-of-the-key]]
+- Treasure Maps and the Unknown - Goals in the Megadungeon: [[https://thealexandrian.net/wordpress/1900/roleplaying-games/treasure-maps-the-unknown-goals-in-the-megadungeon]]
+- (re-)Running the Megadungeon: [[https://thealexandrian.net/wordpress/5/roleplaying-games/re-running-the-megadungeon]]
 - Liven Up Those Corridors: [[http://graphiteprime.blogspot.com/2019/07/liven-up-those-corridors.html]]
 - Anatomy of a Dungeon Map: [[http://beyondfomalhaut.blogspot.com/2020/05/blog-anatomy-of-dungeon-map.html]]
 - 34 Good Traps (and trap design): [[https://www.bastionland.com/2018/08/34-good-traps.html]]
+- A Comprehensive Guide to Secret Doors:  [[https://goblinpunch.blogspot.com/2018/08/a-comprehensive-guide-to-secret-doors.html]]
 - Why Build a MegaDungeon in 2017: [[https://initiativeone.blogspot.com/2017/05/why-build-megadungeon-in-2017.html]]
 - Year of the Dungeon: [[https://poleandrope.blogspot.com/2009/02/year-of-dungeon.html]]
 - The Overly Thematic Dungeon: [[http://beyondfomalhaut.blogspot.com/2017/02/blog-overly-thematic-dungeon.html]]
 - Prismatic Wasteland's Megadungeon Malls: [[https://www.prismaticwasteland.com/blog/megadungeon-malls-and-collaborative-caverns?format=amp]]
+- Bite Sized Dungeons: https://traversefantasy.blogspot.com/2022/11/bite-sized-dungeons.html
 - How to design a great metroidvania map: [[https://www.pcgamer.com/how-to-design-a-great-metroidvania-map/]]
+- Brief Brainworms- Megadungeons: [[https://permacrandam.blogspot.com/2021/03/brief-brainworms-megadungeon.html]]
+- Old School Dungeon Design Guidelines: https://grognardia.blogspot.com/2009/02/old-school-dungeon-design-guidelines.html
 - Discussion of old TSR tournament module fun-house dungeons effects on the genre: [[https://www.greyhawkgrognard.com/2009/10/24/is-it-possible-to-publish-true/]]
 
 ## System Rules -
@@ -58,13 +68,14 @@ Bryce Lynch "Wandering Monsters should have a Reason for Wandering Around": [[ht
 
 - **Horror23 Prompts from TheLostBay**: [[https://twitter.com/thelostbay/status/1602027316842057728?s=20&t=CP8s02SnCUTRhZH-ZizeSA]]
 - **Skullfungus' dungeon23 prompts**: [[https://twitter.com/skullfungus/status/1601888331767349249?s=20&t=qRj6Kq9Z2fZE8KLWBYBKsg]]
+- Behind the Tables, a subreddit of random tables: [[https://www.reddit.com/r/BehindTheTables/]]
 
 ## World Building Exercises
 
 - Gygax 75 Challenge: [[https://rayotus.itch.io/gygax75]]
 - Discussion of several OSR dungeon-building methods [[http://www.necropraxis.com/2020/07/14/missing-manuals/]]
-- Behind the Tables, a subreddit of random tables: [[https://www.reddit.com/r/BehindTheTables/
-]]
+- A 2021-22 Megadungeon Jam: [[https://itch.io/jam/megadungeon-jam]]  
+- 
 ## MEGA-Threads
 
 > Goblin Archive's Twitter Thread for MegaDungeon Resources:
@@ -95,14 +106,16 @@ Bryce Lynch "Wandering Monsters should have a Reason for Wandering Around": [[ht
 
 ### Hack & Slash Publishing -
 - Artifices, Deceptions & Dilemmas: [[https://www.drivethrurpg.com/product/348258/Artifices-Deceptions--Dilemmas?affiliate_id=2928046]]
-- Bestial Ecosystems Created By Monstrous Inhabitation: [[https://www.drivethrurpg.com/product/394828/Bestial-Ecosystems-Created-by-Monstrous-Inhabitation-Public-Edition?affiliate_id=2928046]]
+
 
 ### Sine Nomine Publishing
 - Stars Without Number: [[https://www.drivethrurpg.com/product/226996/Stars-Without-Number-Revised-Edition?affiliate_id=2928046]]
 - Stars Without Number: Free Edition: [[https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version?affiliate_id=2928046]]
 - Worlds Without Number: [[https://www.drivethrurpg.com/product/348791/Worlds-Without-Number?affiliate_id=2928046]]
 - Worlds without Number - Free Edition: [[https://www.drivethrurpg.com/product/348809/Worlds-Without-Number-Free-Edition?affiliate_id=2928046]]
-  
+
+### Rise Up Comus
+- Dungeon Seeds: [[https://riseupcomus.itch.io/dungeon-seeds]]
 
 ## Drawing Dungeon Tutorials
 
@@ -117,6 +130,9 @@ Bryce Lynch "Wandering Monsters should have a Reason for Wandering Around": [[ht
 
 ### GDC
 - Hitman Levels as Social Spaces: [[https://youtu.be/SpRJuinc9AM]]  
+
+### Map Crow
+- Map Making Playlist: https://www.youtube.com/watch?v=yJXnrRd9qns&list=PLlUAT9sIQ7Mr_BJ1X65vy3uSVJSf1YB6r
 
 ### Matt Colville/MCDM
 - Running the Game - Your First Dungeon: [[https://youtu.be/zTD2RZz6mlo?list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_]]  
