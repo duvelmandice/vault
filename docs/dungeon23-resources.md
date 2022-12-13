@@ -1,5 +1,5 @@
 
-## This Document has moved to http://duvelmandice.github.io
+## This Document has upgraded & moved to http://duvelmandice.github.io
 
 
 # dungeon23-resources
