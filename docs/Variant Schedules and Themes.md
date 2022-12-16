@@ -13,7 +13,7 @@
 
 ### City23
 
-  **Zac BM's Schedule for building a City23:**[https://twitter.com/Zac_BM_/status/1602402519753363456?s=20&t=edQnrTONqs9EMyoE2GZojQ](https://twitter.com/Zac_BM_/status/1602402519753363456?s=20&t=edQnrTONqs9EMyoE2GZojQ)
+- **Zac BM's Schedule for building a City23:**[https://twitter.com/Zac_BM_/status/1602402519753363456?s=20&t=edQnrTONqs9EMyoE2GZojQ](https://twitter.com/Zac_BM_/status/1602402519753363456?s=20&t=edQnrTONqs9EMyoE2GZojQ)
 - Cities as Megadungeons - Follow Me and Die! Blog: [2015 A to Z Challenge Theme Reveal - Cities/Cities As Ruins/Cities As Megadungeons – Follow Me And Die!](https://followmeanddie.com/2015/03/23/2015-a-to-z-challenge-theme-reveal-citiescities-as-ruinscities-as-megadungeons/)
 
 
@@ -25,4 +25,4 @@
 
 - Prismatic Wasteland's Megadungeon Malls: [Megadungeon Malls & Collaborative Caverns](https://www.prismaticwasteland.com/blog/megadungeon-malls-and-collaborative-caverns?format=amp)
 
-  
+  tags: #dungeon23
