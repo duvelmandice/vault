@@ -1,10 +1,12 @@
 # Welcome!
 
 ### A list of Resources for Building a Megadungeon for  #dungeon23
-Compiled by Andrew Duvall - @duvelmandice
+Compiled by Andrew Duvall - [@duvelmandice](https://duvelmandice.carrd.co) 
 
 ![Dungeon23 Logo by Lone Archivist|300](https://img.itch.zone/aW1nLzEwNzU0NzM3LnBuZw==/original/klLf7L.png)
-  
+###### Dungeon23 logos by [Lone Archivist](https://lonearchivist.itch.io/dungeon23) CC-BY 4.0
+
+
 ## What IS the #dungeon23?
 
 > "Megadungeon for 2023. 12 levels. 365 rooms. One room a day. Keep it all in a journal." *Sean McCoy*   
