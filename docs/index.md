@@ -25,6 +25,10 @@ Any entry in **Bold is part of #dungeon23**
 [[MEGA-threads]]  
 [[Products]]  
 [[Videos]]  
+[[Running a Megadungeon]]
+[[Variant Schedules and Themes]]
+
+
 
 
 Archived version:  
