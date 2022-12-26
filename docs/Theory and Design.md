@@ -24,10 +24,12 @@
 
 ### Dungeon Layout
 
-- Jayquaysing the Dungeon: [The Alexandrian » Jaquaying the Dungeon](https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon)
-- Anatomy of a Dungeon Map: [Beyond Fomalhaut: [BLOG] The Anatomy of a Dungeon Map](http://beyondfomalhaut.blogspot.com/2020/05/blog-anatomy-of-dungeon-map.html)
-- Liven Up Those Corridors: [Graphite Prime: Liven Up Those Corridors!](http://graphiteprime.blogspot.com/2019/07/liven-up-those-corridors.html)
-- The Art of the Key: [The Alexandrian » The Art of the Key](https://thealexandrian.net/wordpress/35180/roleplaying-games/the-art-of-the-key)
+- Jayquaysing the Dungeon: [The Alexandrian » Jaquaying the Dungeon](https://thealexandrian.net/wordpress/13085/roleplaying-games/jaquaying-the-dungeon)  
+- Cyclic Dungeon Generation: [Cyclic Dungeon Generation by Sersa Victory](https://sersavictory.itch.io/cyclic-dungeon-generation)
+- Anatomy of a Dungeon Map: [Beyond Fomalhaut: [BLOG] The Anatomy of a Dungeon Map](http://beyondfomalhaut.blogspot.com/2020/05/blog-anatomy-of-dungeon-map.html)  
+- Liven Up Those Corridors: [Graphite Prime: Liven Up Those Corridors!](http://graphiteprime.blogspot.com/2019/07/liven-up-those-corridors.html)  
+- The Art of the Key: [The Alexandrian » The Art of the Key](https://thealexandrian.net/wordpress/35180/roleplaying-games/the-art-of-the-key)  
+- DOTGEON: [DOTGEON by Tyler Crumrine](https://possible-worlds-games.itch.io/dotgeon)
 
 ### Dungeon Encounters
 
