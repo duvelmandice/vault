@@ -1,5 +1,6 @@
 ## Theory and Design
 
+- **Dungeon Design, Process and Keys - Designing for Dungeon23:** [All Dead Generations: Dungeon Design, Process and Keys](https://alldeadgenerations.blogspot.com/2022/12/dungeon-design-process-and-keys.html)
 - So You Want to build a Dungeon? [All Dead Generations: So You Want to Build a Dungeon?](https://alldeadgenerations.blogspot.com/2021/03/so-you-want-to-build-dungeon.html)  
 - Brief Brainworms- Megadungeons: [Permanent Cranial Damage: Brief Brainworms: Megadungeon](https://permacrandam.blogspot.com/2021/03/brief-brainworms-megadungeon.html)
 
@@ -9,7 +10,8 @@
 - Bite Sized Dungeons: [Bite-Sized Dungeons](https://traversefantasy.blogspot.com/2022/11/bite-sized-dungeons.html)
 - 3 Step Dungeon: [BASTIONLAND: Three Step Dungeons](https://www.bastionland.com/2018/10/three-step-dungeons.html)
 - Ultimate Guide to 5 Room Dungeons: [The Ultimate Guide to 5 Room Dungeons](https://www.roleplayingtips.com/5-room-dungeons/)
-- Generic Megadungeon by Skerples: [https://twitter.com/Skerples1/status/1534041488534843392?s=20&t=VzLYfC-auEkOTjjGon5gmw](https://twitter.com/Skerples1/status/1534041488534843392?s=20&t=VzLYfC-auEkOTjjGon5gmw)
+- Generic Megadungeon by Skerples: [https://twitter.com/Skerples1/status/1534041488534843392?s=20&t=VzLYfC-auEkOTjjGon5gmw](https://twitter.com/Skerples1/status/1534041488534843392?s=20&t=VzLYfC-auEkOTjjGon5gmw)  
+- 12 Angry Rooms: [Twelve Angry Rooms - Spooky action at a distance](https://spooky.blot.im/twelve-room)
 - Old School Dungeon Design Guidelines: [GROGNARDIA: Old School Dungeon Design Guidelines](https://grognardia.blogspot.com/2009/02/old-school-dungeon-design-guidelines.html)
 
 ### Dungeon Setting

@@ -17,6 +17,7 @@ Any entry in **Bold is part of #dungeon23**
 - **The original post** [#Dungeon23 - by Sean McCoy - Win Conditions](https://seanmccoy.substack.com/p/dungeon23)
 - **Alternative Schedule for Dungeon 23**: [Alternative Schedule for Dungeon23 - Spooky action at a distance](https://spooky.blot.im/dungeon23)
 
+[[Dungeon23 Devlogs]]
 [[Assets and Templates]]  
 [[Dungeon Map Making]]  
 [[Theory and Design]]  
@@ -37,5 +38,6 @@ itch.io: [#Dungeon23 Resources - itch.io](https://itch.io/blog/462261/dungeon23-
 github: [dungeon23-resources](https://duvelmandice.github.io/vault/dungeon23-resources)  
 
 
-![[No Fascists Allowed [Left Fist].png]]
+![[nofacsistsallowedleftfist.png]]
+![No Fascists Allowed - LeftFist|300](https://img.itch.zone/aW1nLzEwNzU0NzM3LnBuZw==/original/klLf7L.png)
 ###### Credit: Andrea Parducci
