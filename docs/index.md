@@ -40,4 +40,4 @@ github: [dungeon23-resources](https://duvelmandice.github.io/vault/dungeon23-res
 
 
 ![No Fascists Allowed - LeftFist|150](https://duvelmandice.github.io/vault/nofacsistsallowedleftfist.png)
-###### Credit: Andrea Parducci
+###### "No Fascists Allowed" Logo Credit: Andrea Parducci
