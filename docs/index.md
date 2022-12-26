@@ -32,7 +32,10 @@ Any entry in **Bold is part of #dungeon23**
 
 
 
-
 Archived version:  
 itch.io: [#Dungeon23 Resources - itch.io](https://itch.io/blog/462261/dungeon23-resources)  
 github: [dungeon23-resources](https://duvelmandice.github.io/vault/dungeon23-resources)  
+
+
+![[No Fascists Allowed [Left Fist].png]]
+###### Credit: Andrea Parducci
