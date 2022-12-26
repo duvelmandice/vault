@@ -1,7 +1,7 @@
 # Welcome!
 
 ### A list of Resources for Building a Megadungeon for  #dungeon23
-Compiled by Andrew Duvall - [@duvelmandice](https://duvelmandice.carrd.co) 
+Compiled by Andrew Duvall - [@duvelmandice](https://duvelmandice.carrd.co) [itch.io store](https://duvelmandice.itch.io) 
 
 ![Dungeon23 Logo by Lone Archivist|300](https://img.itch.zone/aW1nLzEwNzU0NzM3LnBuZw==/original/klLf7L.png)
 ###### Dungeon23 logos by [Lone Archivist](https://lonearchivist.itch.io/dungeon23) CC-BY 4.0
