@@ -39,5 +39,5 @@ github: [dungeon23-resources](https://duvelmandice.github.io/vault/dungeon23-res
 
 
 ![[nofacsistsallowedleftfist.png]]
-![No Fascists Allowed - LeftFist|300](https://img.itch.zone/aW1nLzEwNzU0NzM3LnBuZw==/original/klLf7L.png)
+![No Fascists Allowed - LeftFist|150](https://duvelmandice.github.io/vault/nofacsistsallowedleftfist.png)
 ###### Credit: Andrea Parducci
