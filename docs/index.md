@@ -15,9 +15,10 @@ It doesn't have to be a mega-*dungeon*, folks are also using **City23**, **Facil
 Any entry in **Bold is part of #dungeon23**
 
 - **The original post** [#Dungeon23 - by Sean McCoy - Win Conditions](https://seanmccoy.substack.com/p/dungeon23)
-- **Alternative Schedule for Dungeon 23**: [Alternative Schedule for Dungeon23 - Spooky action at a distance](https://spooky.blot.im/dungeon23)
+- **Alternative Schedule for Dungeon 23**: [Alternative Schedule for Dungeon23 - Spooky action at a distance](https://spooky.blot.im/dungeon23)  
+- **Dungeon23 Itch.io Game Jam**: [Dungeon23 Jam - itch.io](https://itch.io/jam/dungeon23)
 
-[[Dungeon23 Devlogs]]
+[[Dungeon23 Devlogs]]  
 [[Assets and Templates]]  
 [[Dungeon Map Making]]  
 [[Theory and Design]]  
@@ -28,10 +29,10 @@ Any entry in **Bold is part of #dungeon23**
 [[MEGA-threads]]  
 [[Products]]  
 [[Videos]]  
-[[Running a Megadungeon]]
-[[Variant Schedules and Themes]]
+[[Running a Megadungeon]]  
+[[Variant Schedules and Themes]]  
 
-
+---
 
 Archived version:  
 itch.io: [#Dungeon23 Resources - itch.io](https://itch.io/blog/462261/dungeon23-resources)  
