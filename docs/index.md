@@ -38,6 +38,6 @@ itch.io: [#Dungeon23 Resources - itch.io](https://itch.io/blog/462261/dungeon23-
 github: [dungeon23-resources](https://duvelmandice.github.io/vault/dungeon23-resources)  
 
 
-![[nofacsistsallowedleftfist.png]]
+
 ![No Fascists Allowed - LeftFist|150](https://duvelmandice.github.io/vault/nofacsistsallowedleftfist.png)
 ###### Credit: Andrea Parducci
